@@ -12,4 +12,4 @@ Intern id: CT04DG2794
 Mentor: NEELA SANTOSH
 
 #output 
-https://github.com/user-attachments/assets/901ffe67-3179-432b-9879-0361e1702c00
+[Spam_Detector_Model - Colab 1.pdf](https://github.com/user-attachments/files/21328996/Spam_Detector_Model.-.Colab.1.pdf)
